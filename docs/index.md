@@ -1,20 +1,20 @@
 ## Summary
 
-*adiomusika* is a simple offline audio and music player for Android that focuses on making it easy to enjoy audio files and music. Its goal is to include all vital features, along with practical additional features, and exclude features that could confuse users or detract from their listening experience.
+This app is a simple offline audio and music player for Android that focuses on making it easy to enjoy audio files and music. Its goal is to include all vital features, along with practical additional features, and exclude features that could confuse users or detract from their listening experience.
 
 ## Intended users
 
 * People frustrated with music players that either lack key features or have too many unnecessary features
 
-  > As someone who's tired of using music players that either have too many features or are missing key features, I want an app that'll have all I need and only little more, so that I can enjoy my music without frustration or confusion.
+   > As someone who's tired of using music players that either have too many features or are missing key features, I want an app that'll have all I need and only little more, so that I can enjoy my music without frustration or confusion.
 
 * People who seriously love listening to music and/or other audio on their Android device
 
-  > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
+    > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
 
 * People who casually listen to music and/or other audio on their Android device
 
-  > As someone who sometimes listens to music and recorded speeches from my Android device, I want an attractive and easy-to-use audio player, so I can open it and get straight to listening to my audio files and music.
+    > As someone who sometimes listens to music and recorded speeches from my Android device, I want an attractive and easy-to-use audio player, so I can open it and get straight to listening to my audio files and music.
 
 ## Functionality
 
