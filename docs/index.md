@@ -20,6 +20,10 @@ This app is a simple offline audio and music player for Android that focuses on 
 
 List (using a bullet list---or ordered list, if order is relevant) the key functional aspects that will be provided by the app---i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
 
+* The user can view and play most audio file types on their device.
+* The user can view and edit most of any metadata from the audio files on their device.
+* 
+
 ## Persistent data
 
 List, in general terms and using a bullet list, what content will be stored on the Android device. This should include any information that users of your app would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
