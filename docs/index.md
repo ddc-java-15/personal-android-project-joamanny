@@ -1,10 +1,15 @@
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+*adiomusika* is a simple offline audio and music player for Android that focuses on making it easy to enjoy audio files and music. Its goal is to include all vital features, along with practical additional features, and exclude features that could confuse users or detract from their listening experience.
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+* People frustrated with music players that either lack key features or have too many unnecessary features
+  > As someone who's tired of using music players that either have too many features or are missing key features, I want an app that'll have all I need and only little more, so that I can enjoy my music without frustration or confusion.
+* People who seriously love listening to music and/or other audio on their Android device
+  > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
+* People who casually listen to music and/or other audio on their Android device
+  > As someone who sometimes listens to music and recorded speeches from my Android device, I want an attractive and easy-to-use audio player, so I can open it and get straight to listening to my audio files and music.
 
 For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form 
 
