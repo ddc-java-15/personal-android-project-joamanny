@@ -5,23 +5,16 @@
 ## Intended users
 
 * People frustrated with music players that either lack key features or have too many unnecessary features
+
   > As someone who's tired of using music players that either have too many features or are missing key features, I want an app that'll have all I need and only little more, so that I can enjoy my music without frustration or confusion.
+
 * People who seriously love listening to music and/or other audio on their Android device
+
   > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
+
 * People who casually listen to music and/or other audio on their Android device
+
   > As someone who sometimes listens to music and recorded speeches from my Android device, I want an attractive and easy-to-use audio player, so I can open it and get straight to listening to my audio files and music.
-
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form 
-
-> As a <type of intended user (_who_)> I want to <use of feature or functionality (_what_)> so that <benefit (_why_).
-
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
 
 ## Functionality
 
