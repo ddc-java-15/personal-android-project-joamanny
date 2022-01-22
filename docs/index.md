@@ -18,20 +18,33 @@ This app is a simple offline audio and music player for Android that focuses on 
 
 ## Functionality
 
-List (using a bullet list---or ordered list, if order is relevant) the key functional aspects that will be provided by the app---i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
-
-* The user can view and play most audio file types on their device.
-* The user can view and edit most of any metadata from the audio files on their device.
-* 
+* View and play most audio file types
+* Delete audio files from device storage
+* View and edit some metadata from audio files
+* Sort audio files by artist, album, duration, play count, date added, etc.
+* Create, edit, import, and export playlists
+* Add, move, remove, shuffle, and loop audio files in the play queue
+* Customize the interface (tab order, colors, buttons, etc.)
+* Select specific directories to search for audio files, ignore very short audio files, save playback position for long audio files, and other related options
+* Control audio from lockscreens, notification panels, and homescreen widgets
+* Create autoplaylists based on play count and other recorded statistics
+* Share audio to other devices via casting
 
 ## Persistent data
 
-List, in general terms and using a bullet list, what content will be stored on the Android device. This should include any information that users of your app would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
+* Recently played audio files and queue
+* Playlists
+* Customization options and other functionality settings
+* Play counts and other statistics
     
 ## Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+* Read, edit, and delete device files
+* Device services required for audio playback
 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+* Read, add, and edit timestamps on audio files
+* Search for and add lyrics to audio files as metadata
+* Crossfade audio files
+* Cut and trim audio files
