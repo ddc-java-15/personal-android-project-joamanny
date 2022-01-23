@@ -10,7 +10,7 @@ This app is a simple offline audio and music player for Android that focuses on 
 
 * People who seriously love listening to music and/or other audio on their Android device
 
-    > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
+    > As someone who deeply loves and appreciates the gift of sound, I want a practical and attractive audio player that allows me to listen to my audio files, so that I can enjoy them along with all the useful features the app has to compliment the listening experience.
 
 * People who casually listen to music and/or other audio on their Android device
 
